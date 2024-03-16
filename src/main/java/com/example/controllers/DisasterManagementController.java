@@ -16,9 +16,6 @@ public class DisasterManagementController {
     @Autowired
     private MachineLearningService mlService;
 
-    @Autowired
-    private NotificationService notificationService;
-
     @PostMapping("/ingest")
     public ResponseEntity<String> ingestData(@RequestBody DataIngestionRequest request) {
         dataIngestionService.ingestWeatherData(request.getWeatherData());
@@ -34,10 +31,4 @@ public class DisasterManagementController {
         return ResponseEntity.ok(prediction);
     }
 
-    
-    @PostMapping("/notify")
-    public ResponseEntity<String> notifyUsers(@RequestBody NotificationRequest request) {
-        notificationService.generateAlerts(request.getAffectedAreas(), request.getDisasterType());
-        return ResponseEntity.ok("Notifications sent successfully");
-    }
 }

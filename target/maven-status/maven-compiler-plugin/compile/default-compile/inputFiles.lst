@@ -1,12 +1,10 @@
 /Users/aaradhy_sharma/Desktop/hackathon/daemon/intelligent-disaster-management/src/main/java/com/example/controllers/AuthController.java
-/Users/aaradhy_sharma/Desktop/hackathon/daemon/intelligent-disaster-management/src/main/java/com/example/services/NotificationService.java
 /Users/aaradhy_sharma/Desktop/hackathon/daemon/intelligent-disaster-management/src/main/java/com/example/utils/DataPreprocessor.java
 /Users/aaradhy_sharma/Desktop/hackathon/daemon/intelligent-disaster-management/src/main/java/com/example/services/MachineLearningService.java
 /Users/aaradhy_sharma/Desktop/hackathon/daemon/intelligent-disaster-management/src/main/java/com/example/models/User.java
 /Users/aaradhy_sharma/Desktop/hackathon/daemon/intelligent-disaster-management/src/main/java/com/example/utils/ModelTrainer.java
 /Users/aaradhy_sharma/Desktop/hackathon/daemon/intelligent-disaster-management/src/main/java/com/example/controllers/NotificationController.java
 /Users/aaradhy_sharma/Desktop/hackathon/daemon/intelligent-disaster-management/src/main/java/Application.java
-/Users/aaradhy_sharma/Desktop/hackathon/daemon/intelligent-disaster-management/src/main/java/com/example/utils/OpenAIClient.java
 /Users/aaradhy_sharma/Desktop/hackathon/daemon/intelligent-disaster-management/src/main/java/com/example/models/WeatherData.java
 /Users/aaradhy_sharma/Desktop/hackathon/daemon/intelligent-disaster-management/src/main/java/com/example/controllers/DisasterManagementController.java
 /Users/aaradhy_sharma/Desktop/hackathon/daemon/intelligent-disaster-management/src/main/java/com/example/services/IntegrationService.java
